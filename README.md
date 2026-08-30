@@ -1,4 +1,4 @@
-# 🛡️ Open-Source SOC Laboratory
+# 🛡️ Open-Source SOC Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/SOC-Open%20Source-0A66C2?style=for-the-badge" alt="SOC">
